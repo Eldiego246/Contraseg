@@ -1,2 +1,3 @@
-# Contraseg
-Generador de contraseñas seguras 
+##### Contraseg
+##### Generador de contraseñas seguras 
+##### Creado por KANUTOS 
